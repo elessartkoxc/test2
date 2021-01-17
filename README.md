@@ -2,3 +2,6 @@
 
 commit test
  Selam GitHub
+
+
+Desctop'tan güncellendim.
